@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "masterdetail"
 include(":app")
- 
+include(":mylocations")

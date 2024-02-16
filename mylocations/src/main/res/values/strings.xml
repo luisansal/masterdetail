@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">masterdetail</string>
+    <string name="GOOGLE_MAP_API_KEY">AIzaSyD8BRpgNMPT4YH1iqZ0UTMpSOB0-CML3Do</string>
+    <string name="location_permission_denied">Permiso de ubicación rechazado</string>
+    <string name="permission_required_toast">Solicitud de permiso</string>
+    <string name="permission_rationale_location">permission rationale location</string>
+</resources>
